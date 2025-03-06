@@ -7,7 +7,7 @@ Materiały z zajęć Analiza zależności prowadzonych na Wydziale Matematyki i 
 | ------------- | ------------- | ------------- |
 | 1. | 25/26-02-2025 | Wykresy kwantylowe, rozkład spektralny i SVD |
 | 2. | 4/5-03-2025 | Metoda MNK |
-| 3. | 11/12-03-2025 | |
+| 3. | 11/12-03-2025 | Metoda MNK / Rezydua i ich własności  |
 | 4. | 18/19-03-2025 | |
 | 5. | 25/26-03-2025 | |
 | 6. | 1/2-04-2025 | |
