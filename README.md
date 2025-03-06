@@ -3,10 +3,10 @@
 Materiały z zajęć Analiza zależności prowadzonych na Wydziale Matematyki i Nauk Informacyjnych PW.
 
 ## Rozpiska terminów i tematów zajęć
-|Lp.| Data | wtorek 16:15, środa 12:15|
+|Lp.| Data | wtorek 16:00, środa 12:15|
 | ------------- | ------------- | ------------- |
 | 1. | 25/26-02-2025 | Wykresy kwantylowe, rozkład spektralny i SVD |
-| 2. | 4/5-03-2025 | |
+| 2. | 4/5-03-2025 | Metoda MNK |
 | 3. | 11/12-03-2025 | |
 | 4. | 18/19-03-2025 | |
 | 5. | 25/26-03-2025 | |
