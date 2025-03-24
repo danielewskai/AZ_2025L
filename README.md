@@ -11,15 +11,15 @@ Materiały z zajęć Analiza zależności prowadzonych na Wydziale Matematyki i 
 | 4. | 18/19-03-2025 | Rezydua i ich własności / Testowanie w modelu regresji liniowej |
 | 5. | 25/26-03-2025 | Testowanie w modelu regresji liniowej / Diagnostyka modelu regresji liniowej |
 | 6. | 1/2-04-2025 | Diagnostyka modelu regresji liniowej |
-| 7. | 8/9-04-2025 | Kolokwium |
-| 8. | 15/16-04-2025 |  |
+| 7. | 8/9-04-2025 | Kolokwium 1 |
+| 8. | 15/16-04-2025 | |
 | 9. | 29/23-04-2025 | |
 | 10. | 6-05/30-03-2025 | |
 | 11. | 13/7-05-2025 | |
 | 12. | 20/21-05-2025 | |
 | 13. | 27/28-05-2025 | |
 | 14. | 3/4-06-2025 | |
-| 15. | 10/11-06-2025 | |
+| 15. | 10/11-06-2025 | Kolokwium 2 |
 
 ## Transze zadań
 Termin oddania transzy nr 1 - 18/19.03.2025 \
