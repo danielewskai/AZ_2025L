@@ -85,6 +85,7 @@ summary(m)$coef[2,4]
 # p-val < 0.05 zatem odrzucamy hipotezę zerową, zmienna x1 jest istotna, ale
 # model liniowy jest niewystarczający, gdyż nie uwzględnia kwadratowej zależności
 summary(m)$fstatistic
+summary(m)$coef[2,3]^2
 
 # Zadanie 4.3 ------------------------------------------------------------------
 n <- 100
