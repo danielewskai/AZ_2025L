@@ -68,16 +68,17 @@ beta <-  c(0.05, 0.05,  0.05, 0.05)
 
 MOC <- numeric(length(n))
 
-for (j in 1:length(n)) {
+for (j in 1:length(n)){
   moc <- numeric(B)
   for (i in 1:B){
-    X <- cbind(1,matrix(rnorm(3*n[j]), ncol = 3))
-    eps <-  rnorm(n[j], 0, 1)
-    y <- X %*% beta + eps
-    M <- lm(y ~ X-1)
-    F_test <- summary(M)$fstatistic
-    pval <- 1 - pf(F_test[1], F_test[2], F_test[3])
-    moc[i] <- ifelse(pval<0.05, 1, 0)
+    X <- matrix(rnorm(3 * n[j]), ncol = 3)
+    X1 <- cbind(1, X)
+    eps <- rnorm(n[j])
+    y <- X1 %*% beta + eps
+    model <- lm(y ~ X)
+    F_test <- summary(model)$fstat
+    p_value <- 1 - pf(F_test[1], F_test[2], F_test[3])
+    moc[i] <- ifelse(p_value < 0.05, 1, 0)
   }
   MOC[j] <- mean(moc)
 }
