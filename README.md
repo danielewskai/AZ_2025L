@@ -23,7 +23,8 @@ Materiały z zajęć Analiza zależności prowadzonych na Wydziale Matematyki i 
 
 ## Transze zadań
 Termin oddania transzy nr 1 - 18/19.03.2025 \
-Termin oddania transzy nr 2 - 8/9.04.2025
+Termin oddania transzy nr 2 - 8/9.04.2025 \
+Termin oddania transzy nr 3 - 6/7.05.2025
 
 
 ## System oceniania
