@@ -14,9 +14,9 @@ Materiały z zajęć Analiza zależności prowadzonych na Wydziale Matematyki i 
 | 7. | 8/9-04-2025 | Diagnostyka modelu regresji liniowej / Współliniowość i selekcja zmiennych |
 | 8. | 15/16-04-2025 | Kolokwium 1 |
 | 9. | 29/23-04-2025 | Współliniowość i selekcja zmiennych |
-| 10. | 6-05/30-03-2025 | |
-| 11. | 13/7-05-2025 | |
-| 12. | 20/21-05-2025 | |
+| 10. | 6-05/30-03-2025 | Współliniowość i selekcja zmiennych / Ogólna hipoteza liniowa |
+| 11. | 13/7-05-2025 | Ogólna hipoteza liniowa /  Regresja grzbietowa i lasso |
+| 12. | 20/21-05-2025 |  Regresja grzbietowa i lasso / |
 | 13. | 27/28-05-2025 | |
 | 14. | 3/4-06-2025 | |
 | 15. | 10/11-06-2025 | Kolokwium 2 |
