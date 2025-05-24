@@ -16,15 +16,16 @@ Materiały z zajęć Analiza zależności prowadzonych na Wydziale Matematyki i 
 | 9. | 29/23-04-2025 | Współliniowość i selekcja zmiennych |
 | 10. | 6-05/30-03-2025 | Współliniowość i selekcja zmiennych / Ogólna hipoteza liniowa |
 | 11. | 13/7-05-2025 | Ogólna hipoteza liniowa /  Regresja grzbietowa i lasso |
-| 12. | 20/21-05-2025 |  Regresja grzbietowa i lasso / |
-| 13. | 27/28-05-2025 | |
-| 14. | 3/4-06-2025 | |
+| 12. | 20/21-05-2025 |  Regresja grzbietowa i lasso |
+| 13. | 27/28-05-2025 | PCA, PLSR |
+| 14. | 3/4-06-2025 | Regresja logistyczna |
 | 15. | 10/11-06-2025 | Kolokwium 2 |
 
 ## Transze zadań
 Termin oddania transzy nr 1 - 18/19.03.2025 \
 Termin oddania transzy nr 2 - 8/9.04.2025 \
-Termin oddania transzy nr 3 - 6/7.05.2025
+Termin oddania transzy nr 3 - 6/7.05.2025 \
+Termin oddania transzy nr 4 - 3/4.06.2025
 
 
 ## System oceniania
